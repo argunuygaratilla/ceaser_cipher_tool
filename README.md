@@ -2,4 +2,4 @@ Bu projede verilen metni sezar şifrelemesi ile veren ve bu şifrelenmiş veriyi
 
 --------------------------------------TR-EN---------------------------------------
 
-In this project, I wrote a program that outputs the given text with Caesar encryption and copies this encrypted data to the clipboard.
+In this project, I wrote a software that outputs the given text with Caesar encryption and copies this encrypted data to the clipboard.
